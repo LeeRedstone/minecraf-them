@@ -1,0 +1,12 @@
+/**
+ * @name Custom Font
+ * @author lee
+ * @authorLink https://github.com/LeeRedstone
+ * @version 1.0.0
+ * @description Extremely basic theme to change the font of discord for the most part 
+ * @source www.github.com/LeeRedstone/minecraf-them/main/custom-font.theme.css
+*/
+
+* {
+    font-family: 'Minecraft', Minecraft !important;
+}
